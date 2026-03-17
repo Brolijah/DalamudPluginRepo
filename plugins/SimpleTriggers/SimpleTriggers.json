@@ -2,13 +2,14 @@
   "Author": "Brolijah",
   "Name": "SimpleTriggers",
   "InternalName": "SimpleTriggers",
-  "AssemblyVersion": "0.2.1",
+  "AssemblyVersion": "0.2.3",
   "Description": "This plugin allows you to create custom responses to in-game messages.\nOptions include responding through in-game chat, in-game sound effects, and even Text-to-Speech.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Brolijah/SimpleTriggers",
   "CategoryTags": [
-    "chat",
-    "triggers"
+    "chat", "tts",
+    "triggers",
+    "alerts"
   ],
   "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
@@ -20,6 +21,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/Brolijah/SimpleTriggers/refs/heads/master/Data/icon.png",
   "Punchline": "For those of us too lazy to read their screens.",
-  "Changelog": "First public release.",
+  "Changelog": "Testing version for volume fix with Kokoro in Windows.",
   "AcceptsFeedback": true
 }
