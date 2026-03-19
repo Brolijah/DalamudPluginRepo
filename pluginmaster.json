@@ -4,9 +4,9 @@
         "Name": "SimpleTriggers",
         "Punchline": "For those of us too lazy to read their screens.",
         "Description": "This plugin allows you to create custom responses to in-game messages.\nOptions include responding through in-game chat, in-game sound effects, and even Text-to-Speech.",
-        "Changelog": "Volume fix for Kokoro under Windows.",
+        "Changelog": "v0.3.0 preview - Import/Export triggers, Minor UI updates.",
         "InternalName": "SimpleTriggers",
-        "AssemblyVersion": "0.2.4",
+        "AssemblyVersion": "0.3.0-preview",
         "RepoUrl": "https://github.com/Brolijah/SimpleTriggers",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -20,12 +20,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/Brolijah/SimpleTriggers/releases/download/v0.2.4/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Brolijah/SimpleTriggers/releases/download/v0.3.0-preview/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Brolijah/SimpleTriggers/releases/download/v0.2.4/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Brolijah/SimpleTriggers/releases/download/v0.2.4/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Brolijah/SimpleTriggers/releases/download/v0.3.0-preview/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Brolijah/SimpleTriggers/releases/download/v0.3.0-preview/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1773752700"
+        "LastUpdate": "1773891394"
     }
 ]
