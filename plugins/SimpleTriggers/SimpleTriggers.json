@@ -21,6 +21,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/Brolijah/SimpleTriggers/refs/heads/master/Data/icon.png",
   "Punchline": "For those of us too lazy to read their screens.",
-  "Changelog": "v0.3.0 preview - Import/Export triggers, Config data update. Kokoro and WinSpeech updates.",
+  "Changelog": "v0.3.0 - Import/Export triggers, Config data update. Kokoro and WinSpeech updates.",
   "AcceptsFeedback": true
 }
