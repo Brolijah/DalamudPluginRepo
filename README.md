@@ -1,4 +1,6 @@
-Custom [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) plugin repository.
+Custom [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) plugin repository.  
+
+⚠️⚠️ The plugin in this repo is now in the main Dalamud repository. Please download from there. ⚠️⚠️  
 
 ## Installation
 First open the Dalamud Settings menu in the game, accessible through typing `/xlsettings` in the chat or through the button at the bottom of the Plugin Installer.
